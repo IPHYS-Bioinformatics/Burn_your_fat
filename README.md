@@ -1,18 +1,19 @@
-![](Images/document.001.png)version 1.4
+version 1.4
 
 # **BURN YOUR FAT!** DIY board game rules
 Biochemistry game for two teams (players)
 # THE STORY
 Everyone has ever thought about how to get rid of excess fat. It is good to know at least some scientific information for successful weight loss strategies. Fat depots, which in humans are stored in the abdominal cavity or buttock area, are mostly made up of triacylglycerol molecules, abbreviated TG. To get rid of these TG molecules and convert them into carbon dioxide (CO<sub>2</sub>) and water, we need the help of several metabolic pathways and enzymes.
 # GAME PARTS
-1. Playing board. Print the board on A0 format paper.
+1. Playing board. Print the board [board](game_board/board_v1.4.jpg) on A0 format paper. 
 1. Three D6 ![ref1] and two D20 ![ref2] dice. Buy them.
 1. Tokens (pawns) called <b>NADH</b>, <b>FADH<sub>2</sub></b>, <b>ATP</b>. Print them using a 3D printer, 30 pieces of <b>NADH</b> in red and <b>FADH<sub>2</sub></b> in orange, and 14 <b>ATPs</b> in yellow. STL files are attached. Or use color-coded pawns from other board games. 
 1. Building blocks (aka LEGO bricks), one per one carbon. 3D-print ~50 pieces in one color and ~50 pieces in another color. Grey and blue work well. STL files are attached. (Original LEGO works fine if you have enough bricks)
 1. Neutral building blocks for carbons in the Krebs cycle. 3D-print 16+ pieces in white color.
 1. At least two glycerol backbone bricks. Get a 2×6 plate from LEGO.
-1. Step counter and convertor table for each team/player. Print them.
-1. The minimum number of players is two, but teams of 4+ are preferred. Estimated time is 40 minutes.
+1. Step counter and convertor table for each team/player. Print [them](game_board/counter_converter_to_print.pdf).
+1. Game rules [EN](game_rules/Burn_your_fat_rules_v1.4_en.docx), [CZ](game_rules/Burn_your_fat_rules_v1.4_cs.docx), [DE](game_rules/Burn_your_fat_rules_v1.4_de.docx), [FR](game_rules/Burn_your_fat_rules_v1.4_fr.docx), [ES](game_rules/Burn_your_fat_rules_v1.4_es.docx). Please help us fix the AI translations.
+1. The minimum number of players is two, but teams of 4+ are preferred. Estimated time is 40 minutes to prepare and 40 minutes to play.
 
 ![](Images/document.004.jpeg)
 
@@ -136,12 +137,12 @@ In reality, carbon tracing is even more complicated and requires PhD-level exper
 
 4\. Use the exported citrate C6 and design the **DE NOVO** **LIPOGENESIS** which could replenish the TG molecules and keep the game perpetual.
 # SUPPORTING MATERIAL
-1. The board in PDF is to be printed as A0. The tokens will fit into the preprinted shapes **⬡**, **⬠**, and **▢**.
+1. The board in PDF/JPG is to be printed as A0. The tokens will fit into the preprinted shapes **⬡**, **⬠**, and **▢**.
 1. STL files for 3D-printing. Print the original size.
-   1. square\_token\_ATP.stl
-   1. pentagon\_FADH2.stl
-   1. hexagon\_NADH.stl
-   1. GIB-2x2x2half.stl, <https://www.thingiverse.com/thing:4136547>, CC BY NC
+   1. square\_token\_ATP.stl [ATP](STL_models/square_token_ATP.stl)
+   1. pentagon\_FADH2.stl [FADH2](STL_models/pentagon_FADH2.stl)
+   1. hexagon\_NADH.stl [NADH](STL_models/hexagon_NADH.stl)
+   1. GIB-2x2x2half.stl, <https://www.thingiverse.com/thing:4136547>, CC BY NC [2x2x2](STL_models/GIB-2x2x2half.stl)
 1. Step counter and convertor table in PDF.
 1. Supporting info material about the metabolism.
 # ACKNOWLEDGMENT
@@ -154,8 +155,6 @@ Institute of Physiology, Czech Academy of Sciences, Ondrej Kuda, 2023, CC BY NC 
 The game CC BY NC SA <https://www.fgu.cas.cz/en/departments/metabolismus-bioaktivnich-lipidu/1104-burn-your-fat> 
 
 GIB-2x2x2 brick STL CC BY NC <https://www.thingiverse.com/thing:4136547>
-
-6
 
 [ref1]: Images/document.002.jpeg
 [ref2]: Images/document.003.png
