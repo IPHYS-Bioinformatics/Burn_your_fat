@@ -12,7 +12,7 @@ Everyone has ever thought about how to get rid of excess fat. It is good to know
 1. Neutral building blocks for carbons in the Krebs cycle. 3D-print 16+ pieces in white color.
 1. At least two glycerol backbone bricks. Get a 2×6 plate from LEGO.
 1. Step counter and convertor table for each team/player. Print [them](game_board/counter_converter_to_print.pdf).
-1. Game rules [EN](game_rules/Burn_your_fat_rules_v1.4_en.docx), [CZ](game_rules/Burn_your_fat_rules_v1.4_cs.docx), [DE](game_rules/Burn_your_fat_rules_v1.4_de.docx), [FR](game_rules/Burn_your_fat_rules_v1.4_fr.docx), [ES](game_rules/Burn_your_fat_rules_v1.4_es.docx). Please help us fix the AI translations.
+1. Game [rules](game_rules/Burn_your_fat_rules_v1.4_en.pdf): [EN](game_rules/Burn_your_fat_rules_v1.4_en.docx), [CZ](game_rules/Burn_your_fat_rules_v1.4_cs.docx), [DE](game_rules/Burn_your_fat_rules_v1.4_de.docx), [FR](game_rules/Burn_your_fat_rules_v1.4_fr.docx), [ES](game_rules/Burn_your_fat_rules_v1.4_es.docx). Please help us fix the AI translations.
 1. The minimum number of players is two, but teams of 4+ are preferred. Estimated time is 40 minutes to prepare and 40 minutes to play.
 
 ![](Images/document.004.jpeg)
