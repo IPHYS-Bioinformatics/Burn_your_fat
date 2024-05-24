@@ -2,6 +2,8 @@ version 1.4
 
 # **BURN YOUR FAT!** DIY board game rules
 Biochemistry game for two teams (players)
+
+![](Images/document.001.png)
 # THE STORY
 Everyone has ever thought about how to get rid of excess fat. It is good to know at least some scientific information for successful weight loss strategies. Fat depots, which in humans are stored in the abdominal cavity or buttock area, are mostly made up of triacylglycerol molecules, abbreviated TG. To get rid of these TG molecules and convert them into carbon dioxide (CO<sub>2</sub>) and water, we need the help of several metabolic pathways and enzymes.
 # GAME PARTS
