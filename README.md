@@ -7,7 +7,7 @@ Biochemistry game for two teams (players)
 # THE STORY
 Everyone has ever thought about how to get rid of excess fat. It is good to know at least some scientific information for successful weight loss strategies. Fat depots, which in humans are stored in the abdominal cavity or buttock area, are mostly made up of triacylglycerol molecules, abbreviated TG. To get rid of these TG molecules and convert them into carbon dioxide (CO<sub>2</sub>) and water, we need the help of several metabolic pathways and enzymes.
 # GAME PARTS
-1. Playing board. Print the board [board](game_board/board_v1.4.jpg) on A0 format paper. 
+1. Playing board. Print the [board](game_board/board_v1.4.jpg) on A0 format paper. 
 1. Three D6 ![ref1] and two D20 ![ref2] dice. Buy them.
 1. Tokens (pawns) called <b>NADH</b>, <b>FADH<sub>2</sub></b>, <b>ATP</b>. Print them using a 3D printer, 30 pieces of <b>NADH</b> in red and <b>FADH<sub>2</sub></b> in orange, and 14 <b>ATPs</b> in yellow. STL files are attached. Or use color-coded pawns from other board games. 
 1. Building blocks (aka LEGO bricks), one per one carbon. 3D-print ~50 pieces in one color and ~50 pieces in another color. Grey and blue work well. STL files are attached. (Original LEGO works fine if you have enough bricks)
