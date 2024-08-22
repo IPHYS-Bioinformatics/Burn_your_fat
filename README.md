@@ -148,7 +148,7 @@ In reality, carbon tracing is even more complicated and requires PhD-level exper
 1. Step counter and convertor table in PDF.
 1. Supporting info material about the metabolism.
 # ACKNOWLEDGMENT
-Supported by the project National Institute for Research of Metabolic and Cardiovascular Diseases (Programme EXCELES, ID Project No. **LX22NPO5104**) – Funded by the European Union – Next Generation EU, Ministry of Health [NV19-02-00118], and the Czech Academy of Sciences [Lumina Quaeruntur **LQ200111901**]. This publication is based upon work from COST Action **19105**-Pan-European Network in Lipidomics and EpiLipidomics (EpiLipidNET) supported by COST (European Cooperation in Science and Technology).
+Supported by the project National Institute for Research of Metabolic and Cardiovascular Diseases (Programme EXCELES, ID Project No. **LX22NPO5104**) – Funded by the European Union – Next Generation EU and the Czech Academy of Sciences [Lumina Quaeruntur **LQ200111901**]. This publication/software is based upon work from COST Action **19105**-Pan-European Network in Lipidomics and EpiLipidomics (EpiLipidNET) supported by COST (European Cooperation in Science and Technology).
 
 ![](Images/document.009.png)![](Images/document.010.jpeg)![](Images/document.011.png) ![https://assets-global.website-files.com/62b06fac330f909af7f81a64/62e8e0763c0cf61d12158659_logo-cardia.png](Images/document.012.png)
 # LICENSE
