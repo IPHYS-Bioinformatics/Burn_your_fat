@@ -14,7 +14,7 @@ Everyone has ever thought about how to get rid of excess fat. It is good to know
 1. Neutral building blocks for carbons in the Krebs cycle. 3D-print 16+ pieces in white color.
 1. At least two glycerol backbone bricks. Get a 2×6 plate from LEGO.
 1. Step counter and convertor table for each team/player. Print [them](game_board/counter_converter_to_print.pdf).
-1. Game [rules](game_rules/Burn_your_fat_rules_v1.4_en.pdf): [:us:](game_rules/Burn_your_fat_rules_v1.4_en.docx), [:czech_republic:](game_rules/Burn_your_fat_rules_v1.4_cs.docx), [:de:](game_rules/Burn_your_fat_rules_v1.4_de.docx), [:fr:](game_rules/Burn_your_fat_rules_v1.4_fr.docx), [:es:](game_rules/Burn_your_fat_rules_v1.4_es.docx). Please help us fix the AI translations.
+1. Game [rules](game_rules/Burn_your_fat_rules_v1.4_en.pdf): [:us:](game_rules/Burn_your_fat_rules_v1.4_en.docx), [:czech_republic:](game_rules/Burn_your_fat_rules_v1.4_cs.docx), [:de:](game_rules/Burn_your_fat_rules_v1.4_de_v2.docx), [:fr:](game_rules/Burn_your_fat_rules_v1.4_fr.docx), [:es:](game_rules/Burn_your_fat_rules_v1.4_es.docx). Please help us fix the AI translations.
 1. The minimum number of players is two, but teams of 4+ are preferred. Estimated time is 40 minutes to prepare and 40 minutes to play.
 
 ![](Images/document.004.jpeg)
@@ -149,6 +149,9 @@ In reality, carbon tracing is even more complicated and requires PhD-level exper
 1. Supporting info material about the metabolism.
 # ACKNOWLEDGMENT
 Supported by the project National Institute for Research of Metabolic and Cardiovascular Diseases (Programme EXCELES, ID Project No. **LX22NPO5104**) – Funded by the European Union – Next Generation EU and the Czech Academy of Sciences [Lumina Quaeruntur **LQ200111901**]. This publication/software is based upon work from COST Action **19105**-Pan-European Network in Lipidomics and EpiLipidomics (EpiLipidNET) supported by COST (European Cooperation in Science and Technology).
+
+### **Translations**
+   1. Deutsch/German rules by Nils Hoffmann
 
 ![](Images/document.009.png)![](Images/document.010.jpeg)![](Images/document.011.png) ![https://assets-global.website-files.com/62b06fac330f909af7f81a64/62e8e0763c0cf61d12158659_logo-cardia.png](Images/document.012.png)
 
